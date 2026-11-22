@@ -1,5 +1,19 @@
 # S9++ (ScreenFix)
 
+
+
+### Just want to install the app? Download the APK here:
+
+
+
+[![Download S9++ APK (v1.0.0)](https://img.shields.io/badge/DOWNLOAD_APK-S9PlusPlus--v1.0.0.apk-A84CA9?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lan951-a11/S9PlusPlus-ScreenFix/releases/download/v1.0.0/S9PlusPlus-v1.0.0.apk)
+
+[![All Releases](https://img.shields.io/badge/RELEASES_PAGE-View_All_Versions-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lan951-a11/S9PlusPlus-ScreenFix/releases/latest)
+
+
+
+> **Don't click the green `<> Code` button** — that only downloads raw source code for programmers. Click the purple **DOWNLOAD APK** button above (or tap **[S9PlusPlus-v1.0.0.apk](https://github.com/lan951-a11/S9PlusPlus-ScreenFix/releases/download/v1.0.0/S9PlusPlus-v1.0.0.apk)** directly) to download the ready-to-install Android app.
+
 An open-source, unencrypted Android root utility. **Important:** the screen fix only works on Galaxy **9 series** phones (**S9 / S9+ / Note 9**, plus experimental S8 support) whose **specific mode of failure is needing Always On Display (AOD) first before turning on in order to display the full color gamut** (without green tint or washed-out colors) — along with a whole lot of other display and comfort features including **HBM 720-nit brightness unlock** with thermal and display-PMIC wattage safety guards, a **Music-synced RGB Notification LED**, a no-timeout override, and **replacement battery calibration**.
 
 > [!NOTE]
@@ -60,7 +74,7 @@ An open-source, unencrypted Android root utility. **Important:** the screen fix 
 ## Installation & Setup
 
 1. Ensure your Exynos Samsung phone is **rooted with Magisk or KernelSU**.
-2. Install `S9PlusPlus-v1.0.0.apk` from GitHub Releases.
+2. Download and install **[S9PlusPlus-v1.0.0.apk](https://github.com/lan951-a11/S9PlusPlus-ScreenFix/releases/download/v1.0.0/S9PlusPlus-v1.0.0.apk)** (from the [Releases](https://github.com/lan951-a11/S9PlusPlus-ScreenFix/releases/latest) page).
 3. Open **S9++** and grant **Superuser (Root)** permission when prompted.
 4. Test the screen color fix using **"Test Automatic AOD Wake Cycle Now"**, then toggle **"Auto-Cycle Real AOD on Power Button Wake"** ON/OFF as needed.
 5. *(Optional)* For **Music RGB Notification LED**, grant Audio (`RECORD_AUDIO`) permission and tap **"Grant Notification Access"**.
