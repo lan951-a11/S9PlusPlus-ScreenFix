@@ -2,6 +2,9 @@
 
 An open-source, unencrypted Android root utility. **Important:** the screen fix only works on Galaxy **9 series** phones (**S9 / S9+ / Note 9**, plus experimental S8 support) whose **specific mode of failure is needing Always On Display (AOD) first before turning on in order to display the full color gamut** (without green tint or washed-out colors) — along with a whole lot of other display and comfort features including **HBM 720-nit brightness unlock** with thermal and display-PMIC wattage safety guards, a **Music-synced RGB Notification LED**, a no-timeout override, and **replacement battery calibration**.
 
+> [!NOTE]
+> **100% AI-Coded — Use at Your Own Risk:** This project was **100% AI-coded**. What works on my device might not work on yours—different panels, firmware versions, kernels, and hardware degradation states can behave differently. Always back up important data before making root or `/efs` changes.
+
 > [!CAUTION]
 > **ROOTED & EXYNOS MODELS ONLY**
 > - This app **requires root access** (Magisk or KernelSU) and interacts directly with Samsung **Exynos** kernel sysfs nodes and Android's internal `SurfaceControl` display power modes.
