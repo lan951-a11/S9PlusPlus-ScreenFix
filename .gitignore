@@ -1,0 +1,10 @@
+build/
+signing/
+releases/
+*.keystore
+*.jks
+*.idsig
+*.apk
+*.bak
+.DS_Store
+Thumbs.db
